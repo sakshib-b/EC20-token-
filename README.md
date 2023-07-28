@@ -11,3 +11,7 @@ Front END :
 ![image](https://github.com/sakshib-b/EC20-token-/assets/138519467/774e0630-7c5f-40dd-b8ec-249e6f399629)
 
 
+
+SKills : solidity · JavaScript · VScode · GitHub · MetaMask · Web3 · Etherum · Blockchain.
+
+
